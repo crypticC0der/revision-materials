@@ -5,5 +5,5 @@ there are few command line options for the python file, but one is wether or not
 if you want it to read the flashcard using text to speach use -v<br>
 this is off by default<br>
 
-<p>the cards data file stores over 1000 flashcards in the form:<br>
-    card front/\card back\/</p>
+the cards data file stores over 1000 flashcards in the form:<br>
+> card front/\card back\/
